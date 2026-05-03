@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> Due to the constant advancement of censorship technologies worldwide, it is no longer recommended to use Shadowsocks for anything other than bypassing primitive geolocking restrictions in more or less free countries.
+>
+> For users who rely on this project to circumvent all-encompassing government censorship, be advised that even if Shadowsocks still works for you, it might not continue to do so for long. Your time would be better spent getting acquainted with more flexible and modern technologies like [Xray](https://github.com/XTLS/Xray-core), for which I also have an [install script](https://github.com/Kira-NT/xray-install) that can hopefully help you out a little bit in your endeavors.
+
 # Outline CLI
 
 [![GitHub CI Status](https://img.shields.io/github/actions/workflow/status/Kira-NT/outline-cli/ci.yml?logo=github)](https://github.com/Kira-NT/outline-cli/actions/workflows/ci.yml)
