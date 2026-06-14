@@ -45,7 +45,7 @@ sudo ./install.sh -y
 Alternatively, for `curl $URL | sudo bash` enjoyers, the same result can be achieved with the following one-liner:
 
 ```sh
-curl -Ls https://github.com/Kira-NT/outline-cli/blob/master/install.sh?raw=true | sudo bash -s -- -y
+curl -Ls https://github.com/Kira-NT/outline-cli/blob/main/install.sh?raw=true | sudo bash -s -- -y
 ```
 
 This will:
